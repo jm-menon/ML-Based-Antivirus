@@ -1,5 +1,5 @@
 # ML-Based-Antivirus
-We use 2 python files to perform to the classification
+We use 2 python files to perform to the train the algorithm to find the best suited one algorithm to identify a potentially malicious file
 namely:
 1. Train.py
 2. Antivirus.py
@@ -14,6 +14,7 @@ used for comparison namely are:
 3. Gradient Boosting
 4. Ada Boosting
 5. Gaussian Naïve Bayes
+   
 Then we proceed to display the success of all of these
 algorithms then then system chooses the one with the
 highest success rate. Random forest was observed to
